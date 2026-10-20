@@ -4,7 +4,7 @@
 
 A 2D U-Net that automatically segments the spleen from abdominal CT scans, built in PyTorch + MONAI on the Medical Segmentation Decathlon spleen task. The focus of this project is **rigorous, honest evaluation and failure analysis** — not a leaderboard number.
 
-**Live demo:** ⟨Hugging Face Spaces link — added on deployment day⟩
+**Live demo:** coming soon
 
 ---
 
@@ -71,7 +71,6 @@ The **spread matters more than the mean** — a single average would hide that t
 
 ## How to run
 
-⟨fill in once the repo is organized — rough shape:⟩
 
 ```bash
 pip install monai nibabel torch matplotlib
