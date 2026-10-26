@@ -94,7 +94,6 @@ README.md
 
 ---
 
-## Dataset & citation
 
 Medical Segmentation Decathlon, Task09 (Spleen) — http://medicaldecathlon.com/
 
