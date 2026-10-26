@@ -74,7 +74,7 @@ The **spread matters more than the mean** — a single average would hide that t
 ```bash
 pip install monai nibabel torch matplotlib
 # the dataset downloads automatically on first run from the MSD S3 bucket
-# train + evaluate: run notebooks/spleen_unet.ipynb
+# train + evaluate: run spleen_unet.ipynb
 ```
 
 ---
@@ -98,4 +98,4 @@ README.md
 
 Medical Segmentation Decathlon, Task09 (Spleen) — http://medicaldecathlon.com/
 
-⟨verify the dataset page and citation before publishing⟩
+
